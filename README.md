@@ -11,6 +11,12 @@
 <a href="https://github.com/notsaiv">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=notsaiv&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" />
   <a href="https://github.com/notsaiv?tab=repositories">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
+    
+## GITHUB PROFILE TROPHY 🏆
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=am-523&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
+</p>
 </a>
 </a>
 <br>
