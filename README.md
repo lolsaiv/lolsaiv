@@ -13,9 +13,9 @@
   <a href="https://github.com/notsaiv?tab=repositories">
     
     
-<h1 align="center">🏆</h1>
+##🏆
 <p>
-  <img align="center"src="https://github-profile-trophy.vercel.app/?username=notsaiv&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=notsaiv&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
 </p>
 </a>
 </a>
