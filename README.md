@@ -1,5 +1,4 @@
-<h1 align="center">notsaiv</h1> 
-<img src="https://komarev.com/ghpvc/?username=notsaiv&color=blue" alt="fax" width="" height="">
+<h1 align="center">notsaiv</h1> <img src="https://komarev.com/ghpvc/?username=notsaiv&color=blue" alt="fax" width="" height="">
 
 **Current Known Languages: (best - least)**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -14,9 +13,9 @@
   <a href="https://github.com/notsaiv?tab=repositories">
     
     
-## 🏆
+<h1 align="center">🏆</h1>
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=notsaiv&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
+  <img align="center"src="https://github-profile-trophy.vercel.app/?username=notsaiv&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
 </p>
 </a>
 </a>
